@@ -1,5 +1,21 @@
 # Rules
 
+## Background
+
+- Familiar- their primary purpose is to supplement a stat with one of theirs or pay a price for you.
+They make roles that would fail succeed, and may provide unique moves, depending
+on your pact with them.
+
+- Implement- Its primary purpose is to supplement a school. The more specific the implement
+the greater the bonus (and the less universal its use). Powerful implements provide unique
+rules and discounts.
+
+- Domain- provide a zone of guaranteed success for actions that match all associated tags. Greater magics result in a bonus for those actions.
+Any additional tags require you to role for that stat.
+Tags are gained by the challengers that attempt to prevent your takeing it. In winning your
+confrontation your Domain gains those tags. Different others are attracted to different kinds
+of Domain. You are likely to get a time spirit for a clock tower for instance. Perhaps go around the board and have players right three words associated with that Domain. You must defeat the entity to get the tag on your domain.
+
 ## Stats
 
 ### Savagery
@@ -7,6 +23,8 @@
 - Power derived from exterior sources unwilling taken
 
 ### Pact
+
+- Cunning is the skill that dictates the formation of pacts. Higher cunning means better terms.
 
 - Power derived from exterior sources willing given (through debts and contracts).
 
@@ -76,3 +94,33 @@ Player with the higher karma choices what happens. The the higher player can cho
 to gain a karma and lose the roll, or for the other player to gain a karma while they
 lose a karma and win the roll. If the GM won, the action taken must make the other player
 approach zero karma.
+
+## Schools
+
+### Conjure
+
+- an other is doing the thing for you. You convince them/ force them to do it.
+
+### Prices
+
+- you are doing the thing, and paying the price yourself (or through proxy)
+
+### Tools
+
+- you are using an object to do the thing
+
+### Realms
+
+- you are using properties of a place to do the thing
+
+### Interaction
+
+- You focus manipulating the interactions between other things
+
+### Lore
+
+- You use your knowledge about hard things to do them well
+
+### Protection
+
+- You manipulate things to make it harder for other people/other to do things
